@@ -1,0 +1,7 @@
+{
+  "name": "gallery-apk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
